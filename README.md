@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)]
 <!--
 **xtredme/xtredme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
