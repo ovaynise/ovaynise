@@ -1,8 +1,10 @@
 ## Hey 😎, This is [![Github Badge](https://img.shields.io/badge/-xtredme-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xtredme/)](https://www.github.com/xtredme/) !
-#Contact me:
+### <p align='left'>I'm Python Developer!🐍</p>
+
+### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-apply.powder.0p@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:apply.powder.0p@icloud.com)](mailto:apply.powder.0p@icloud.com) 
 
-### <p align='left'>I'm Python Developer!🐍</p>
+
 
 ### My Skills:
 [![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org)](https://www.python.org/)
