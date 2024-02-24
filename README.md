@@ -3,8 +3,8 @@
 
 
 ![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org)
-![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![](https://img.shields.io/badge/Django-green?logo=Django&logoColor=black)
+
 ![](https://img.shields.io/badge/Docker-02aaf7?style=for-the-badge&logo=Docker&logoColor=white)
 
 ## Some of my Github Stats
