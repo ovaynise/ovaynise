@@ -22,4 +22,4 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=xtredme&show_icons=true&include_all_commits=true)](https://github.com/xtredme/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtredme&layout=compact)](https://github.com/xtredme/github-readme-stats)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+![GitHub streak stats](https://streak-stats.demolab.com/?user=xtredme)  
