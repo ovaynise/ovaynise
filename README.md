@@ -1,7 +1,7 @@
 ## Hey 👋, This is xtredme
 [![Gmail Badge](https://img.shields.io/badge/-apply.powder.0p@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:apply.powder.0p@icloud.com)](mailto:apply.powder.0p@icloud.com) [![Github Badge](https://img.shields.io/badge/-xtredme-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xtredme/)](https://www.github.com/xtredme/) <p align='left'>Python Developer</p>
 
-![](https://img.shields.io/badge/Python-blue)
+![[](https://img.shields.io/badge/Python-blue)](https://img.shields.io/badge/Python-blue)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/Docker-02aaf7?style=for-the-badge&logo=Docker&logoColor=white)
