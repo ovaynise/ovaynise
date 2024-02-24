@@ -1,5 +1,6 @@
 ## Hey 😎, This is [![Github Badge](https://img.shields.io/badge/-xtredme-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xtredme/)](https://www.github.com/xtredme/) !
-[![Gmail Badge](https://img.shields.io/badge/-apply.powder.0p@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:apply.powder.0p@icloud.com)](mailto:apply.powder.0p@icloud.com) [![Github Badge](https://img.shields.io/badge/-xtredme-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xtredme/)](https://www.github.com/xtredme/) 
+#Contact me:
+[![Gmail Badge](https://img.shields.io/badge/-apply.powder.0p@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:apply.powder.0p@icloud.com)](mailto:apply.powder.0p@icloud.com) 
 
 ### <p align='left'>I'm Python Developer!🐍</p>
 
