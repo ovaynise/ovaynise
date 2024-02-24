@@ -3,6 +3,7 @@
 
 
 ![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org)
+![](https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white&link=https%3A%2F%2Fwww.python.org&link=https%3A%2F%2Fwww.python.org)
 ![](https://img.shields.io/badge/Django-green?logo=Django&logoColor=black)
 
 ![](https://img.shields.io/badge/Docker-02aaf7?style=for-the-badge&logo=Docker&logoColor=white)
