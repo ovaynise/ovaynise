@@ -20,6 +20,8 @@
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=xtredme alt=xtredme /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=xtredme&show_icons=true&include_all_commits=true)](https://github.com/xtredme/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtredme&layout=compact)](https://github.com/xtredme/github-readme-stats)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=xtredme)  
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xtredme&show_icons=true&include_all_commits=true)](https://github.com/xtredme/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xtredme)](https://github.com/ryo-ma/github-profile-trophy)
