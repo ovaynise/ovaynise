@@ -1,4 +1,4 @@
-## Hey 😎, This is [![Github Badge](https://img.shields.io/badge/-xtredme-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xtredme/)](https://www.github.com/xtredme/) !
+## Hey 😎, This is [![Github Badge](https://img.shields.io/badge/-ovaynise-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xtredme/)](https://www.github.com/ovaynise/) !
 #### <p align='left'>I'm a former civil engineer turned Python developer 🐍</p>
 
 ### About Me
@@ -18,10 +18,10 @@
 [![](https://img.shields.io/badge/Autocad-%23871720?logo=Autocad&logoColor=White)](https://www.autodesk.com/)
 
 ### Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=xtredme alt=xtredme /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ovaynise alt=ovaynise /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtredme&layout=compact)](https://github.com/xtredme/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtredme&layout=compact)](https://github.com/ovaynise/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtredme&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovaynisee&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xtredme)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ovaynise)](https://github.com/ryo-ma/github-profile-trophy)
