@@ -22,6 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovaynise&layout=compact)](https://github.com/ovaynise/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovaynisee&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovaynise&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ovaynise)](https://github.com/ryo-ma/github-profile-trophy)
