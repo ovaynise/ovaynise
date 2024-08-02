@@ -20,8 +20,5 @@
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ovaynise alt=ovaynise /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovaynise&layout=compact)](https://github.com/ovaynise/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovaynise&show_icons=true&theme=dark)
 
 
