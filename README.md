@@ -5,7 +5,7 @@
 🏗️ With a background in civil engineering, I've transitioned into the world of programming and development, bringing a unique blend of skills and perspectives to the table.
 
 ### Contact Me
-📧 Reach out to me via email: [![Gmail Badge](https://img.shields.io/badge/-apply.powder.0p@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:apply.powder.0p@icloud.com)](mailto:ovaynisep@icloud.com) 
+📧 Reach out to me via email: [![Gmail Badge](https://img.shields.io/badge/-ovaynise@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:apply.powder.0p@icloud.com)](mailto:ovaynise@icloud.com) 
 
 ### My Skills
 [![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org)](https://www.python.org/) 
