@@ -47,8 +47,8 @@ Also interesting are artificial intelligence technologies, machine learning and 
 
 
 #### Contact me:
-![Static Badge](https://img.shields.io/badge/Telegram-%2330b1d6%20?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Ftonpyth)
-![Static Badge](https://img.shields.io/badge/ovaynise%40icloud.com-%23e1e6e8?logo=gmail&logoColor=blue&link=ovaynise%40icloud.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%2330b1d6?logo=telegram&logoColor=white)](https://t.me/tonpyth)
+[![Email](https://img.shields.io/badge/ovaynise%40icloud.com-%23e1e6e8?logo=gmail&logoColor=blue)](mailto:ovaynise@icloud.com)
 ----
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ovaynise alt=ovaynise /> </p>
 
