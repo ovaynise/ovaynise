@@ -1,4 +1,4 @@
-## ,[![Github Badge](https://img.shields.io/badge/-ovaynise-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xtredme/)](https://www.github.com/ovaynise/) !
+## [![Github Badge](https://img.shields.io/badge/-ovaynise-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xtredme/)](https://www.github.com/ovaynise/)
 #### <p align='left'> Python developer 🐍</p>
 
 ### About Me
