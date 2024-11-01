@@ -5,8 +5,7 @@
 Experience in software development since 2023 with a focus on server-side web development (Python development). I am passionate about programming and constantly improve my technical skills.
 Also interesting are artificial intelligence technologies, machine learning and crypto technologies.
 
-### Contact Me
-📧 Reach out to me via email: [![Gmail Badge](https://img.shields.io/badge/-ovaynise@icloud.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ovaynise@icloud.com)](mailto:ovaynise@icloud.com) 
+
 
 ### My Skills
 [![](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&link=https%3A%2F%2Fwww.python.org)](https://www.python.org/) 
