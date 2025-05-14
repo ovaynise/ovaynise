@@ -41,6 +41,10 @@
 ![Static Badge](https://img.shields.io/badge/Apache%20Airflow-%2363696f?logo=apacheairflow)
 ![Static Badge](https://img.shields.io/badge/Spark%20Streaming-%2363696f)
 ![Static Badge](https://img.shields.io/badge/HDFS-%2363696f)
+![Static Badge](https://img.shields.io/badge/Pandas-%2363696f)
+![Static Badge](https://img.shields.io/badge/NumPy-%2363696f?logo=numpy)
+![Static Badge](https://img.shields.io/badge/Jupiter-%2363696f?logo=jupyter)
+![Static Badge](https://img.shields.io/badge/Linux-%2363696f?logo=linux)
 
 
 
