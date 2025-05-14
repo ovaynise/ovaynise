@@ -45,10 +45,13 @@
 ![Static Badge](https://img.shields.io/badge/NumPy-%2363696f?logo=numpy)
 ![Static Badge](https://img.shields.io/badge/Jupiter-%2363696f?logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/Linux-%2363696f?logo=linux)
-![Static Badge](https://img.shields.io/badge/Celery-%2363696f?logo=celery)
+![Static Badge](https://img.shields.io/badge/Selenium-%2363696f?logo=selenium)
 ![Static Badge](https://img.shields.io/badge/Alembic-%2363696f)
 ![Static Badge](https://img.shields.io/badge/Seaborn-%2363696f)
 ![Static Badge](https://img.shields.io/badge/Matplotlib-%2363696f)
+![Static Badge](https://img.shields.io/badge/Scrapy-%2363696f?logo=scrapy)
+![Static Badge](https://img.shields.io/badge/BeautifulSoup-%2363696f)
+![Static Badge](https://img.shields.io/badge/Dbeaver-%2363696f?logo=dbeaver)
 
 
 
