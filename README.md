@@ -32,7 +32,8 @@
 ![Static Badge](https://img.shields.io/badge/unittest-%2363696f?logo=unittest)
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-%2363696f?logo=CI%2FCD)
 ![Static Badge](https://img.shields.io/badge/Yandex%20Cloud%20Server-%2363696f?logo=yandexcloud)
-![Static Badge](https://img.shields.io/badge/Hadoop-%2363696f?logo=apachehadoop)
+![Static Badge](https://img.shields.io/badge/Hadoop-%2363696f?logo=apachehadoop&logoColor=%23FFFF00)
+
 
 
 
