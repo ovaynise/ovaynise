@@ -33,6 +33,16 @@
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-%2363696f?logo=CI%2FCD)
 ![Static Badge](https://img.shields.io/badge/Yandex%20Cloud%20Server-%2363696f?logo=yandexcloud)
 ![Static Badge](https://img.shields.io/badge/Hadoop-%2363696f?logo=apachehadoop&logoColor=%23FFFF00)
+![Static Badge](https://img.shields.io/badge/Apache%20Hive-%2363696f?logo=apachehive)
+![Static Badge](https://img.shields.io/badge/Apache%20NiFi-%2363696f?logo=apachenifi)
+![Static Badge](https://img.shields.io/badge/Apache%20Spark-%2363696f?logo=apachespark)
+![Static Badge](https://img.shields.io/badge/Apache%20Kafka-%2363696f?logo=apachekafka)
+![Static Badge](https://img.shields.io/badge/Apache%20Kafka-%2363696f?logo=apachekafka)
+![Static Badge](https://img.shields.io/badge/Clickhouse-%2363696f?logo=clickhouse)
+![Static Badge](https://img.shields.io/badge/Apache%20Airflow-%2363696f?logo=apacheairflow)
+![Static Badge](https://img.shields.io/badge/Spark%20Streaming-%2363696f)
+![Static Badge](https://img.shields.io/badge/HDFS-%2363696f)
+
 
 
 
