@@ -1,12 +1,6 @@
 # <img alt="Static Badge" src="https://img.shields.io/badge/Python-Developer-blue?logo=python&logoColor=white">
 
 
-### About Me
-Experience in software development since 2023 with a focus on server-side web development (Python development). I am passionate about programming and constantly improve my technical skills.
-Also interesting are artificial intelligence technologies, machine learning and crypto technologies.
-
-
-
 ### My Skills
 ![Static Badge](https://img.shields.io/badge/Python-%2363696f?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Django-%2363696f?logo=django)
@@ -38,6 +32,9 @@ Also interesting are artificial intelligence technologies, machine learning and 
 ![Static Badge](https://img.shields.io/badge/unittest-%2363696f?logo=unittest)
 ![Static Badge](https://img.shields.io/badge/CI%2FCD-%2363696f?logo=CI%2FCD)
 ![Static Badge](https://img.shields.io/badge/Yandex%20Cloud%20Server-%2363696f?logo=yandexcloud)
+![Static Badge](https://img.shields.io/badge/Hadoop-%2363696f?logo=apachehadoop)
+
+
 
 
 
